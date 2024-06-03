@@ -20,9 +20,6 @@
   <a href="https://www.linkedin.com/in/moises-corbellari-5187231b3" target="_blank">
     <img src="https://img.shields.io/badge/Moises%20Corbellari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.github.com/MoisesCorbellari" target="_blank">
-    <img src="https://img.shields.io/badge/Moises%20Corbellari-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
 </div>
 
 ### Study in this moment:
