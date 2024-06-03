@@ -19,9 +19,10 @@
 </div>
 
 
-### Study in this moment:
+## Study in this moment
+#### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=python)
-### Tools:
+#### Tools
 ![Tools](https://skillicons.dev/icons?i=vscode)
 
 <div align="center">
