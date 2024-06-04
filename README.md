@@ -19,7 +19,7 @@
 </div>
 
 
-## Study in this moment
+## Studying in this moment
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=python)
 #### Tools
