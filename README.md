@@ -18,7 +18,6 @@
   </a>
 </div>
 
-
 ## Studying in this moment
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=python)
