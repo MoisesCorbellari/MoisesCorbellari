@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=135&section=header&text=Moisés%20Corbellari%20👨🏽‍💻&fontSize=30&fontColor=F8F8FF&animation=fadeIn&fontAlignY=35"/>
 
 ## About me ✨
-Hi, I'm Moisés Corbellari, I recently started studying programming because I was positively encouraged by my cousin/friend, and since then, I have dedicated myself to learning. I like researching topics related to programming, trying to understand each subject and develop skills that will be useful in my career.
+Hi, I'm Moisés Corbellari, I recently started studying programming because I was positively encouraged by my cousin, and since then, I have dedicated myself to learning. I like researching topics related to programming, trying to understand each subject and develop skills that will be useful in my career.
 
 ### Interests and Objectives
 - **Interests 💻🎧💡**: I like talking about technology, music and thinking creatively about ideas that I can test.
