@@ -15,15 +15,12 @@ Hi, I'm Moisés Corbellari, I recently started studying programming because I wa
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MoisesCorbellari&bg_color=000000&color=00ffee&line=00fffb&point=00ffee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Follow me on 🌎
-<div align="center">
+<div>
   <a href="https://www.instagram.com/moises_corbellari/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" style="margin-right: 10px;"/>
   </a>
   <a href="https://www.linkedin.com/in/moises-corbellari-5187231b3/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin-left: 10px;"/>
-  </a>
-  <a href="https://github.com/MoisesCorbellari/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="Github" style="margin-left: 10px;"/>
   </a>
 </div>
 
