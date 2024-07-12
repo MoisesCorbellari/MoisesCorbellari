@@ -28,6 +28,8 @@ Hi, I'm Moisés Corbellari, I recently started studying programming because I wa
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=python)
 ##### Tools
-![Tools](https://skillicons.dev/icons?i=vscode,docker,fastapi)
+![Tools](https://skillicons.dev/icons?i=vscode)
+##### Framework
+![Framework](https://skillicons.dev/icons?i=fastapi)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=135&section=footer"/>
