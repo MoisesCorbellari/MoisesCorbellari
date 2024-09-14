@@ -24,11 +24,11 @@ Hi, I'm Moisés Corbellari, I recently started studying programming because I wa
   </a>
 </div>
 
-## Studying in this moment 🧠
+## Currently studying 🧠
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=python)
 ##### Tools
-![Tools](https://skillicons.dev/icons?i=vscode)
+![Tools](https://skillicons.dev/icons?i=vscode,docker)
 ##### Framework
 ![Framework](https://skillicons.dev/icons?i=fastapi)
 
