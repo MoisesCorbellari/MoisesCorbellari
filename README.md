@@ -12,7 +12,7 @@
 
 <div align="center">  
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MoisesCorbellari&show_icons=true&count_private=true&hide_border=false&title_color=00ffee&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Moisés Corbellari github stats" /> 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesCorbellari&layout=compact&hide_border=false&title_color=00ffee&text_color=00bfbf&bg_color=0d1117" />
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesCorbellari&layout=compact&hide_border=false&title_color=00ffee&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 <div align="center">
