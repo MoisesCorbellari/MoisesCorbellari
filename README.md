@@ -1,12 +1,12 @@
 # Hello, I'm Moisés Corbellari 🖖🏾
 - #### I’m currently learning 🧠:
     - #### Programming Languages
-      <img align="center" height="50" width="45" src="https://devicon-website.vercel.app/api/python/original.svg">
+      <img align="center" height="45" width="45" src="https://devicon-website.vercel.app/api/python/original.svg">
     - #### Framework
-      <img align="center" height="50" width="45" src="https://devicon-website.vercel.app/api/fastapi/original.svg">
+      <img align="center" height="45" width="45" src="https://devicon-website.vercel.app/api/fastapi/original.svg">
     - #### Tools
-      <img align="center" height="50" width="45" src="https://devicon-website.vercel.app/api/vscode/original.svg">
-      <img align="center" height="60" width="55" src="https://devicon-website.vercel.app/api/docker/original.svg">
+      <img align="center" height="45" width="45" src="https://devicon-website.vercel.app/api/vscode/original.svg">
+      <img align="center" height="45" width="45" src="https://devicon-website.vercel.app/api/docker/original.svg">
 
 ##
 
