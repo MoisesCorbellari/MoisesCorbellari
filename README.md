@@ -1,5 +1,5 @@
 # Hello, I'm Moisés Corbellari 🖖🏾
-- #### I’m currently learning 🧠:
+- #### Currently learning 🧠:
     - #### Programming Languages
       <img align="center" height="45" width="45" src="https://devicon-website.vercel.app/api/python/original.svg">
     - #### Framework
@@ -7,7 +7,10 @@
     - #### Tools
       <img align="center" height="45" width="45" src="https://devicon-website.vercel.app/api/vscode/original.svg">
       <img align="center" height="45" width="45" src="https://devicon-website.vercel.app/api/docker/original.svg">
-
+<!--
+## Projects 💻
+Check out my project [ToDo_List](https://github.com/MoisesCorbellari/ToDo_List) 📝
+-->
 ##
 
 <div align="center">  
