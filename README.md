@@ -1,5 +1,4 @@
 # Hello, I'm Moisés Corbellari 🖖🏾
-
 - #### Currently learning 🧠:
     - #### Programming Languages
       <img align="center" height="45" width="45" src="https://devicon-website.vercel.app/api/python/original.svg">
@@ -16,13 +15,9 @@ Check out my project [ToDo List](https://github.com/MoisesCorbellari/ToDo_List) 
 
 <div align="center">  
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MoisesCorbellari&theme=omni&show_icons=true&count_private=true&hide_border=false&include_all_commits=true" alt="Moisés Corbellari github stats" />
-
-<img width="45%" src="https://github-contributor-stats.vercel.app/api?username=MoisesCorbellari&limit=5&theme=omni&combine_all_yearly_contributions=true" alt="Contribuições de Moisés Corbellari" />
- 
+  <img width="45%" src="https://github-contributor-stats.vercel.app/api?username=MoisesCorbellari&limit=0&theme=omni&combine_all_yearly_contributions=true" alt="Moisés Corbellari's Contributions" />
   <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesCorbellari&layout=compact&hide_border=false&title_color=ff79c6&text_color=ff79c6&bg_color=282a36" />
 </div>
-
-<br>
 
 <div align="center">
   
