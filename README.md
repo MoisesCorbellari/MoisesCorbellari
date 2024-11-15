@@ -9,7 +9,7 @@
       <img align="center" height="45" width="45" src="https://devicon-website.vercel.app/api/docker/original.svg">
 
 ## Projects 💻
-Check out my project [ToDo List](https://github.com/MoisesCorbellari/ToDo_List) 📝
+Check out my project [Todo List](https://github.com/MoisesCorbellari/Todo_List) 📝
 
 ##
 <div align="center">  
