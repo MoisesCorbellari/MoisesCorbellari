@@ -1,29 +1,20 @@
-# Hello, I'm Moisés Corbellari 🖖🏾
-- #### Currently learning 🧠:
-    - #### Programming Languages
-      <img align="center" height="45" width="45" src="https://devicon-website.vercel.app/api/python/original.svg">
-    - #### Framework
-      <img align="center" height="45" width="45" src="https://devicon-website.vercel.app/api/fastapi/original.svg">
-    - #### Tools
-      <img align="center" height="45" width="45" src="https://devicon-website.vercel.app/api/vscode/original.svg">
-      <img align="center" height="45" width="45" src="https://devicon-website.vercel.app/api/docker/original.svg">
+# Hi, I'm Moisés Corbellari 🤓
+- 🌐 I’m currently studying **Information Systems**
+- 🧠 I’m learning **Backend Development**
+- 🐧 I’m learning to use **Linux**&nbsp;<img src="https://skillicons.dev/icons?i=ubuntu" width="24"/>
+- 💻 **Programming Languages:** <img src="https://skillicons.dev/icons?i=python" width="24"/>
+- ⚙️ **Framework:** <img src="https://skillicons.dev/icons?i=fastapi" width="24"/>
+- 🛠️ **Tools:** <img src="https://skillicons.dev/icons?i=vscode" width="24"/> <img src="https://skillicons.dev/icons?i=docker" width="24"/>
+- 🌎 Follow me on [Instagram], [Linkedin]
 
 ## Projects 💻
 - [Todo List](https://github.com/MoisesCorbellari/Todo_List) 📝
 
 ##
-<div align="center">  
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MoisesCorbellari&theme=omni&show_icons=true&count_private=true&hide_border=false&include_all_commits=true" alt="Moisés Corbellari github stats" />
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesCorbellari&layout=compact&hide_border=false&title_color=ff79c6&text_color=ff79c6&bg_color=282a36" />
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=MoisesCorbellari&theme=omni&show_icons=true&count_private=true&hide_border=false&include_all_commits=true" alt="Moisés Corbellari github stats"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesCorbellari&layout=compact&hide_border=false&title_color=ff79c6&text_color=ff79c6&bg_color=282a36" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  
-  ## Follow me on 🌎
-  <a href="https://www.instagram.com/moises_corbellari/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" style="margin-right: 10px;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/moises-corbellari-5187231b3/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="margin-left: 10px;"/>
-  </a>
-</div>
+[Instagram]: https://www.instagram.com/moises_corbellari/
+[Linkedin]: https://www.linkedin.com/in/moises-corbellari-5187231b3/
