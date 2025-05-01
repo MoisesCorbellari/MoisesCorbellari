@@ -1,6 +1,6 @@
 # Hi, I'm Moisés Corbellari 👨🏾‍💻
-- 🌐 I’m currently studying **Information Systems**
-- 🧠 I’m learning **Backend Development**
+- 🌐 Currently studying **Information Systems**
+- 🧠 Learning **Backend Development**
 - 🐧 Getting started with **Linux** <img src="https://skillicons.dev/icons?i=ubuntu" width="24"/>
 
 ## Skills in development 🚧
