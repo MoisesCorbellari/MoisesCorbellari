@@ -1,7 +1,7 @@
 # Hi, I'm Moisés Corbellari 🤓
 - 🌐 I’m currently studying **Information Systems**
 - 🧠 I’m learning **Backend Development**
-- 🐧 I’m learning to use **Linux**&nbsp;<img src="https://skillicons.dev/icons?i=ubuntu" width="24"/>
+- 🐧 I’m learning to use **Linux** <img src="https://skillicons.dev/icons?i=ubuntu" width="24"/>
 - 💻 **Programming Languages:** <img src="https://skillicons.dev/icons?i=python" width="24"/>
 - ⚙️ **Framework:** <img src="https://skillicons.dev/icons?i=fastapi" width="24"/>
 - 🛠️ **Tools:** <img src="https://skillicons.dev/icons?i=vscode" width="24"/> <img src="https://skillicons.dev/icons?i=docker" width="24"/>
