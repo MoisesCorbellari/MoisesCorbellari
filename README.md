@@ -12,7 +12,7 @@
 ## Projects 💻
 - [Todo List](https://github.com/MoisesCorbellari/Todo_List) 📝
 
----
+##
 🌎 Follow me on [Instagram], [Linkedin]
 
 ##
