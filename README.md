@@ -12,7 +12,7 @@
 
 - 🛢️ **Database:** <img src="https://skillicons.dev/icons?i=postgresql" alt="Skill Icons" width="25" style="vertical-align: middle;"/>
 
-- 🛠️ **Tools:** <img src="https://skillicons.dev/icons?i=vscode,docker" alt="Skill Icons" width="40" style="vertical-align: middle;"/>
+- 🛠️ **Tools:** <img src="https://skillicons.dev/icons?i=vscode,docker" alt="Skill Icons" width="50" style="vertical-align: middle;"/>
 
 ## Projects 💻
 - [Todo List](https://github.com/MoisesCorbellari/Todo_List) 📝
