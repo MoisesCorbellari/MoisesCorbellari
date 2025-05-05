@@ -3,16 +3,16 @@
 
 - 🧠 Learning **Backend Development**
 
-- 🐧 Getting started with **Linux** <img src="https://skillicons.dev/icons?i=ubuntu" alt="Skill Icons" width="25" style="vertical-align: middle;"/>
+- 🐧 Getting started with **Linux** <img src="https://skillicons.dev/icons?i=ubuntu" alt="Skill Icons" height="25" style="vertical-align: bottom;"/>
 
 ## Skills in development 🚧
-- 💻 **Programming Languages:** <img src="https://skillicons.dev/icons?i=python" alt="Skill Icons" width="25" style="vertical-align: middle;"/>
+- 💻 **Programming Languages:** <img src="https://skillicons.dev/icons?i=python" alt="Skill Icons" height="25" style="vertical-align: bottom;"/>
 
-- ⚙️ **Framework:** <img src="https://skillicons.dev/icons?i=fastapi" alt="Skill Icons" width="25" style="vertical-align: middle;"/>
+- ⚙️ **Framework:** <img src="https://skillicons.dev/icons?i=fastapi" alt="Skill Icons" height="25" style="vertical-align: bottom;"/>
 
-- 🛢️ **Database:** <img src="https://skillicons.dev/icons?i=postgresql" alt="Skill Icons" width="25" style="vertical-align: middle;"/>
+- 🛢️ **Database:** <img src="https://skillicons.dev/icons?i=postgresql" alt="Skill Icons" height="25" style="vertical-align: bottom;"/>
 
-- 🛠️ **Tools:** <img src="https://skillicons.dev/icons?i=vscode,docker" alt="Skill Icons" width="50" style="vertical-align: middle;"/>
+- 🛠️ **Tools:** <img src="https://skillicons.dev/icons?i=vscode,docker" alt="Skill Icons" height="25" style="vertical-align: bottom;"/>
 
 ## Projects 💻
 - [Todo List](https://github.com/MoisesCorbellari/Todo_List) 📝
