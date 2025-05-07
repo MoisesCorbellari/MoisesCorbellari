@@ -3,17 +3,16 @@
 
 - 🧠 Learning **Backend Development**
 
-- 🐧 Getting started with **Linux** <img src="https://skillicons.dev/icons?i=ubuntu" alt="Skill Icons" height="25"/>
+- 🐧 Getting started with **Linux** <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" height="25"/>
 
 ## Skills in development 🚧
-- 💻 **Programming Languages:** <img src="https://skillicons.dev/icons?i=python" alt="Skill Icons" height="25"/>
+- 💻 **Programming Languages:** <img src="https://skillicons.dev/icons?i=python" alt="Python" height="25"/>
 
-- ⚙️ **Framework:** <img src="https://skillicons.dev/icons?i=fastapi" alt="Skill Icons" height="25"/>
+- ⚙️ **Framework:** <img src="https://skillicons.dev/icons?i=fastapi" alt="FastApi" height="25"/>
 
-- 🛢️ **Database:** <img src="https://skillicons.dev/icons?i=postgresql" alt="Skill Icons" height="25"/>
+- 🛢️ **Database:** <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="25"/>
 
-- 🛠️ **Tools:** [<img src="https://skillicons.dev/icons?i=vscode,docker" alt="VS Code and Docker Icons" height="25"/>](https://skillicons.dev) <img src="assets/dbeaver.png" alt="DBeaver Icon" height="25"/>
-
+- 🛠️ **Tools:** [<img src="https://skillicons.dev/icons?i=vscode,docker" alt="VS Code and Docker" height="25"/>](https://skillicons.dev) <img src="assets/dbeaver.svg" alt="DBeaver" height="25"/>
 
 ## Projects 💻
 - [Todo List](https://github.com/MoisesCorbellari/Todo_List) 📝
