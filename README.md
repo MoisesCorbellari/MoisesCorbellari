@@ -12,7 +12,7 @@
 
 - 🛢️ **Database:** <img src="https://skillicons.dev/icons?i=postgresql" alt="Skill Icons" height="25"/>
 
-- 🛠️ **Tools:** <img src="assets/vscode.png" alt="vscode icon" height="25"/> <img src="assets/docker.png" alt="dbeaver icon" height="25"/> <img src="assets/dbeaver.png" alt="dbeaver icon" height="25"/> 
+- 🛠️ **Tools:** <img src="assets/vscode.png" alt="vscode icon" height="25"/> <img src="https://skillicons.dev/icons?i=docker" alt="docker icon" height="25"/> <img src="assets/dbeaver.png" alt="dbeaver icon" height="25"/> 
 
 ## Projects 💻
 - [Todo List](https://github.com/MoisesCorbellari/Todo_List) 📝
