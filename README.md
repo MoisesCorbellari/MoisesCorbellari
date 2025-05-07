@@ -7,6 +7,7 @@
   <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" height="25"/>
 
 ## Skills in development 🚧
+
 - 💻 **Programming Languages:**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="25"/>
 
