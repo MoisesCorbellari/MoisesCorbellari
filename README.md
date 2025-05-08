@@ -18,7 +18,8 @@
   <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="30"/>
 
 - 🛠️ **Tools:**
-  <img src="https://skillicons.dev/icons?i=vscode,docker" alt="VS Code" height="30"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="30"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" height="30"/>
 
 ## Projects 💻
