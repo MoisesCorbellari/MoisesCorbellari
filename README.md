@@ -36,4 +36,4 @@
 </div>
 
 [Instagram]: https://www.instagram.com/moises_corbellari/
-[Linkedin]: https://www.linkedin.com/in/moises-corbellari-5187231b3/
+[Linkedin]: https://www.linkedin.com/in/moisescorbellari/
