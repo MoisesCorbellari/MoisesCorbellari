@@ -31,8 +31,13 @@
 
 ##
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MoisesCorbellari&theme=omni&show_icons=true&count_private=true&hide_border=false&include_all_commits=true" alt="Moisés Corbellari github stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesCorbellari&layout=compact&hide_border=false&title_color=ff79c6&text_color=ff79c6&bg_color=282a36" alt="Top Languages"/>
+  <a href="https://github.com/MoisesCorbellari">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MoisesCorbellari&theme=omni&show_icons=true&count_private=true&hide_border=true&rank_icon=default&include_all_commits=true" alt="Moisés Corbellari github stats"/>
+  </a>
+  
+  <a href="https://github.com/MoisesCorbellari">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesCorbellari&layout=compact&hide_border=true&title_color=ff79c6&text_color=ff79c6&bg_color=282a36" alt="Top Languages"/>
+  </a>
 </div>
 
 [Instagram]: https://www.instagram.com/moises_corbellari/
