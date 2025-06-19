@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" height="30"/>
 
 ## Projects 💻
-- [Todo List](https://github.com/MoisesCorbellari/Todo_List) 📝
+<!-- - [Todo List](https://github.com/MoisesCorbellari/Todo_List) 📝 -->
 
 ##
 🌎 Follow me on [Instagram], [Linkedin]
