@@ -38,14 +38,3 @@
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoisesCorbellari&layout=compact&hide_border=true&title_color=ff79c6&text_color=ff79c6&bg_color=282a36" alt="Top Languages"/>
   </a>
 </div>
-
----
-
-<div align="center">
-
-  🌎 Follow me on [Instagram], [Linkedin]
-
-</div>
-
-[Instagram]: https://www.instagram.com/moises_corbellari/
-[Linkedin]: https://www.linkedin.com/in/moisescorbellari/
