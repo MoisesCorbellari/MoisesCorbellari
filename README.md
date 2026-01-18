@@ -25,7 +25,7 @@
 ---
 
 ### Projects 💻
-- [Todo List](https://github.com/MoisesCorbellari/Todo_List) 📝
+- [Doup - Lista de Tarefas](https://github.com/MoisesCorbellari/Doup) 📝
 
 ---
 
