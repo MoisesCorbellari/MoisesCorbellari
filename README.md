@@ -25,7 +25,7 @@
 ---
 
 ### Projects 💻
-- [Taskify - Lista de Tarefas](https://github.com/MoisesCorbellari/Doup) 📝
+- [Taskify - Lista de Tarefas](https://github.com/MoisesCorbellari/Taskify) 📝
 
 ---
 
