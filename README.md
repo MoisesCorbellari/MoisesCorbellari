@@ -1,5 +1,5 @@
 # Hi, I'm Moisés Corbellari 👨🏾‍💻
-- 🌐 Currently studying **Information Systems**
+- 🌐 Currently studying **Software Engineer**
 - 🧠 Learning **Backend Development**
 - 🐧 Getting started with **Linux**
 
